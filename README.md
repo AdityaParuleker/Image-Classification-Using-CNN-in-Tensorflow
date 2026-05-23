@@ -193,7 +193,7 @@ The web application allows users to:
 
 # 🎯 Learning Outcomes
 
-Through this project, I learned:
+Through this project, you can learn:
 
 - CNN fundamentals
 - TensorFlow/Keras workflow
@@ -204,22 +204,6 @@ Through this project, I learned:
 
 ---
 
-# 🤝 Contributing
-
-Contributions are welcome.  
-Feel free to fork this repository and improve the project.
-
----
-
-# 📜 License
-
-This project is licensed under the MIT License.
-
----
-
-# 👨‍💻 Author
-
-Developed by [Your Name]
 
 LinkedIn: https://linkedin.com/in/your-profile  
 GitHub: https://github.com/your-username
