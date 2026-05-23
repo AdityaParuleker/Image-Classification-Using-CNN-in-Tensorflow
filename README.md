@@ -91,47 +91,13 @@ The model is trained using:
 
 # 📁 Project Structure
 
-```bash
-├── app.py
 ├── cnn_model.keras
 ├── Image_Classification_CNN.ipynb
-├── requirements.txt
 └── README.md
-```
+
 
 ---
 
-# ⚙️ Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/fashion-mnist-cnn.git
-```
-
-Move into project directory:
-
-```bash
-cd fashion-mnist-cnn
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-# ▶️ Run Streamlit Application
-
-Run the Streamlit app locally:
-
-```bash
-streamlit run app.py
-```
-
----
 
 # 🌐 Streamlit Deployment using Google Colab
 
