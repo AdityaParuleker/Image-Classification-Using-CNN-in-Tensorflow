@@ -109,7 +109,7 @@ This project also supports deployment directly from Google Colab using:
 Deployment Steps:
 
 1. Train and save the model
-2. Create `app.py`
+2. Run deployment section code at end of file
 3. Start Streamlit server
 4. Create public URL using Ngrok
 
@@ -144,18 +144,6 @@ The web application allows users to:
 
 ---
 
-# 📈 Future Improvements
-
-- Custom dataset training
-- Transfer Learning
-- Better UI/UX
-- Docker deployment
-- Hugging Face deployment
-- Multi-image prediction
-- Model explainability visualization
-- Mobile deployment
-
----
 
 # 🎯 Learning Outcomes
 
@@ -170,6 +158,3 @@ Through this project, you can learn:
 
 ---
 
-
-LinkedIn: https://linkedin.com/in/your-profile  
-GitHub: https://github.com/your-username
