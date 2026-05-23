@@ -90,11 +90,11 @@ The model is trained using:
 ---
 
 # 📁 Project Structure
-
+```bash
 ├── cnn_model.keras
 ├── Image_Classification_CNN.ipynb
 └── README.md
-
+```
 
 ---
 
